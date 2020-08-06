@@ -1,2 +1,2 @@
 # UserListing-With-Search
-This shows a list of users with pagination and search functionality
+A list of users with pagination and search functionality
